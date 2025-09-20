@@ -1,4 +1,4 @@
-# Transformers for short-term atmospheric prediction
+# Transformers for Contrail Risk Score
 
 Preliminary code for research project. Data can be downloaded with the following command from the Climate Data Store (CDS) at https://cds.climate.copernicus.eu/how-to-api.
 
